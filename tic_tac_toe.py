@@ -1,6 +1,6 @@
 #!/usr/bin/python
 '''
-A simple 'magic game' for my neice, juliana
+A simple tic-tac-toe game
 '''
 from family_fun import name_ages, winning_combos
 import random
